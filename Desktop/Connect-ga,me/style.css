@@ -1,0 +1,20 @@
+.grid {
+    border: 1px solid black;
+    width: 140px;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid div {
+    width: 20px;
+    height: 20px;
+    
+}
+.plyer-one {
+    background: red;
+    border-radius: 10px;
+}
+.plyer-two {
+    background: blue;
+    border-radius: 10px;
+}
